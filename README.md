@@ -33,9 +33,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
-![Python](https://img.shields.io/badge/-Python-fff?style=flat-square&logo=Python&logoColor=000)
-![java](https://img.shields.io/badge/-java-fff?style=flat-square&logo=java&logoColor=000)
-![Mysql](https://img.shields.io/badge/-Mysql-fff?style=flat-square&logo=Mysql&logoColor=000)
+![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+![JAVA](https://img.shields.io/badge/-JAVA%20-05122A?style=flat&logo=JAVA)&nbsp;
+![MYSQL](https://img.shields.io/badge/-MYSQL%20-05122A?style=flat&logo=MYSQL)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 
 - ### I’m currently learning 
 ![Powerbi](https://img.shields.io/badge/-Powerbi-%23282C34?style=flat-square&logo=Powerbi)
