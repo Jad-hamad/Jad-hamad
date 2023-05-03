@@ -8,7 +8,10 @@
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
 
 <h3>🚀 About Me</h3> 
-<h4> I'm Jad hamad from Lebanon. I'm a Data scientist. I really enjoy learning Programming languages and machine learning. For This Moment I'm junior data scientist and learning increasingly. </h4>
+<h4> - 🏢 I'm a Data scientist at CRESTIC / FARE & FRD
+- 👨‍💻 As a data science student, I'm constantly learning and exploring new technologies to improve my skills.
+- 💬 Ask me about my experience with Machine learning, SQL, and Python, or anything related to data science.
+- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee. </h4>
 
 
 	
