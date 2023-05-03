@@ -14,7 +14,7 @@
 
 <h3>🚀 About Me</h3> 
 
-- 🏢 I'm a Data scientist at CRESTIC / FARE & FRD
+- 🏢 I'm a Data scientist intern at CRESTIC / FARE & FRD
 - 👨‍💻 As a data science student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with Machine learning, SQL, and Python, or anything related to data science.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee. 
