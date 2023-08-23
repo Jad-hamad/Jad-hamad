@@ -37,6 +37,7 @@
 ![JAVA](https://img.shields.io/badge/-JAVA%20-05122A?style=flat&logo=JAVA)&nbsp;
 ![MYSQL](https://img.shields.io/badge/-MYSQL%20-05122A?style=flat&logo=MYSQL)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
+![PYTHON](https://img.shields.io/pypi/pyversions/python)&nbsp;
 
 - ### I’m currently learning 
 ![Powerbi](https://img.shields.io/badge/-Powerbi-%23282C34?style=flat-square&logo=Powerbi)
