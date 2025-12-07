@@ -14,8 +14,8 @@
 
 <h3>🚀 About Me</h3> 
 
-- 🏢 I am consultant Data Engineer/ Data Analyst.
-- 👨‍💻 As a data engineer / data analyst, I'm constantly learning and exploring new technologies to improve my skills.
+- 🏢 I am consultant Data Engineer / Data Analyst.
+- 👨‍💻 As a Data Engineer / Data Analyst, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with Machine learning, SQL, and Python, or anything related to data.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start with a cup of coffee. 
 
