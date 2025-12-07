@@ -14,10 +14,10 @@
 
 <h3>🚀 About Me</h3> 
 
-- 🏢 I am consultant Data Engineer at Orange Business France
-- 👨‍💻 As a data engineer, I'm constantly learning and exploring new technologies to improve my skills.
+- 🏢 I am consultant Data Engineer/ Data Analyst.
+- 👨‍💻 As a data engineer / data analyst, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with Machine learning, SQL, and Python, or anything related to data.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee. 
+- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start with a cup of coffee. 
 
 
 	
@@ -41,6 +41,7 @@
 
 - ### I’m currently learning 
 ![Powerbi](https://img.shields.io/badge/-Powerbi-%23282C34?style=flat-square&logo=Powerbi)
+![Azure](https://img.shields.io/badge/-Azure-%23282C34?style=flat-square&logo=Azure)
 
 
 
